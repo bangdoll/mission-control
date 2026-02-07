@@ -1,0 +1,549 @@
+:root {
+    --bg-color: #050507;
+    /* Deep space black */
+    --card-bg: rgba(20, 20, 22, 0.6);
+    --border-color: rgba(255, 255, 255, 0.08);
+    --text-primary: #ffffff;
+    --text-secondary: #8a8a93;
+    --accent-purple: #6e56cf;
+    --accent-glow: rgba(110, 86, 207, 0.5);
+    --tag-youtube: #3e2e2e;
+    --tag-youtube-text: #ff4d4d;
+    --tag-newsletter: #2e3e2e;
+    --tag-newsletter-text: #4dff88;
+    /* Adjusted for better contrast */
+    --font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    font-family: var(--font-family);
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+    /* Optional: Subtle background gradient/stars */
+    background-image: radial-gradient(circle at 10% 10%, rgba(30, 30, 40, 0.5) 0%, transparent 20%),
+        radial-gradient(circle at 90% 90%, rgba(20, 10, 30, 0.5) 0%, transparent 20%);
+}
+
+.app-container {
+    padding: 24px 40px;
+    max-width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+/* Header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+    opacity: 0.8;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--text-secondary);
+}
+
+.user-menu {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 14px;
+    color: var(--text-secondary);
+}
+
+/* Stats Bar */
+.stats-bar {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    margin-bottom: 32px;
+}
+
+.stat-group {
+    display: flex;
+    gap: 24px;
+}
+
+.stat-item {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+}
+
+.stat-item .value {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.stat-item .label {
+    font-size: 14px;
+    color: var(--text-secondary);
+}
+
+.stat-item.highlight .value {
+    color: #4dff88;
+    /* Green tint */
+}
+
+.completion-rate {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+    color: var(--accent-purple);
+}
+
+.rate-value {
+    font-size: 24px;
+    font-weight: 700;
+    text-shadow: 0 0 10px var(--accent-glow);
+}
+
+/* Toolbar */
+.toolbar {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 24px;
+}
+
+.btn-primary {
+    background-color: var(--accent-purple);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    box-shadow: 0 0 15px var(--accent-glow);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 0 20px rgba(110, 86, 207, 0.7);
+}
+
+.filters {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.filter-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    padding: 6px 12px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.filter-btn.active {
+    color: var(--text-primary);
+}
+
+.dropdown {
+    margin-left: 12px;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 13px;
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+}
+
+/* Kanban Board */
+.kanban-board {
+    display: flex;
+    gap: 24px;
+    flex: 1;
+    overflow-x: auto;
+}
+
+.kanban-column {
+    flex: 1;
+    min-width: 280px;
+    display: flex;
+    flex-direction: column;
+}
+
+.column-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 16px;
+    padding-left: 4px;
+}
+
+.dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+}
+
+.dot.purple {
+    background-color: #d15bef;
+}
+
+.dot.gray {
+    background-color: #666;
+}
+
+.dot.blue {
+    background-color: #3b82f6;
+}
+
+.dot.orange {
+    background-color: #f59e0b;
+}
+
+.column-header .title {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text-secondary);
+    flex: 1;
+}
+
+.column-header .count {
+    font-size: 12px;
+    color: #444;
+}
+
+.add-btn {
+    background: transparent;
+    border: none;
+    color: #444;
+    cursor: pointer;
+}
+
+.add-btn:hover {
+    color: var(--text-secondary);
+}
+
+/* Tasks */
+.task-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 12px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    transition: transform 0.2s, border-color 0.2s;
+    cursor: grab;
+}
+
+.task-card:hover {
+    border-color: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.status-dot {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+}
+
+.status-dot.red {
+    background-color: #ff4d4d;
+}
+
+.status-dot.orange {
+    background-color: #f59e0b;
+}
+
+.task-card h4 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-primary);
+}
+
+.description {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin: 0 0 16px 0;
+    line-height: 1.4;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tag {
+    font-size: 11px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-weight: 500;
+}
+
+.tag.youtube {
+    background-color: rgba(62, 46, 46, 0.5);
+    color: #ff6b6b;
+}
+
+.tag.newsletter {
+    background-color: rgba(46, 62, 46, 0.5);
+    color: #f59e0b;
+    /* Orange-ish for newsletter icon */
+}
+
+.timestamp {
+    font-size: 11px;
+    color: #444;
+}
+
+.empty-state {
+    color: #333;
+    font-size: 13px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+/* Mobile Responsiveness (RWD) & Premium UI/UX Optimization */
+@media (max-width: 768px) {
+    body {
+        overflow-y: auto;
+        height: auto;
+        background-attachment: scroll;
+    }
+
+    .app-container {
+        padding: 16px 12px;
+        height: auto;
+        overflow-y: visible;
+        max-width: 100%;
+    }
+
+    /* Header Optimization */
+    .header {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+        opacity: 0.9;
+    }
+
+    .brand i {
+        font-size: 18px;
+    }
+
+    .brand span {
+        font-size: 14px;
+        white-space: nowrap;
+    }
+
+    .user-menu {
+        gap: 8px;
+    }
+
+    .username {
+        font-size: 12px;
+    }
+
+    /* Stats Bar - Grid Layout Fix */
+    .stats-bar {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 16px;
+        background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.02) 100%);
+        padding: 20px;
+        border-radius: 16px;
+        margin-bottom: 24px;
+        border: 1px solid var(--border-color);
+    }
+
+    .stat-group {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        width: 100%;
+        gap: 8px;
+        border-bottom: 1px solid var(--border-color);
+        padding-bottom: 12px;
+    }
+
+    .stat-item {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 4px;
+    }
+
+    .stat-item .value {
+        font-size: 22px;
+    }
+
+    .stat-item .label {
+        font-size: 10px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+
+    .completion-rate {
+        width: 100%;
+        justify-content: center;
+        padding-top: 4px;
+        gap: 8px;
+    }
+
+    .rate-value {
+        font-size: 24px;
+    }
+
+    .rate-label {
+        font-size: 12px;
+    }
+
+    /* Toolbar & Filters Fix */
+    .toolbar {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 16px;
+        margin-bottom: 28px;
+    }
+
+    .btn-primary {
+        width: 100%;
+        justify-content: center;
+        padding: 14px;
+        font-size: 16px;
+        border-radius: 12px;
+        /* Ensure text doesn't wrap awkwardly */
+        white-space: nowrap;
+    }
+
+    .filters {
+        display: flex;
+        flex-direction: row;
+        /* Force horizontal */
+        overflow-x: auto;
+        padding-bottom: 12px;
+        margin-bottom: -12px;
+        -webkit-overflow-scrolling: touch;
+        gap: 12px;
+        scrollbar-width: none;
+        /* Hide scrollbar Firefox */
+    }
+
+    .filters::-webkit-scrollbar {
+        display: none;
+        /* Hide scrollbar Chrome/Safari */
+    }
+
+    .filter-btn {
+        white-space: nowrap;
+        padding: 8px 16px;
+        background: rgba(255, 255, 255, 0.05);
+        border-radius: 20px;
+        font-size: 13px;
+        border: 1px solid transparent;
+    }
+
+    .filter-btn.active {
+        background: var(--accent-purple);
+        border-color: var(--accent-glow);
+    }
+
+    .dropdown {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 8px;
+        justify-content: space-between;
+        padding: 12px 16px;
+        border-radius: 10px;
+    }
+
+    /* Kanban Board & Columns Fix */
+    .kanban-board {
+        flex-direction: column;
+        gap: 32px;
+        overflow-x: hidden;
+    }
+
+    .kanban-column {
+        min-width: 100%;
+        background: transparent;
+    }
+
+    .column-header {
+        position: sticky;
+        top: 0;
+        background-color: var(--bg-color);
+        z-index: 20;
+        padding: 12px 4px;
+        margin-bottom: 12px;
+        border-bottom: 2px solid var(--border-color);
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+
+    .column-header .title {
+        font-size: 15px;
+        font-weight: 600;
+        color: var(--text-primary);
+    }
+
+    .column-header .count {
+        background: rgba(255, 255, 255, 0.1);
+        padding: 2px 8px;
+        border-radius: 10px;
+        margin: 0 12px;
+        font-size: 11px;
+    }
+
+    /* Task Cards Optimization */
+    .task-card {
+        padding: 18px;
+        margin-bottom: 16px;
+        border-radius: 14px;
+        background: linear-gradient(145deg, rgba(25, 25, 28, 0.8) 0%, rgba(20, 20, 22, 0.8) 100%);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    }
+
+    .task-card h4 {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+
+    .description {
+        font-size: 14px;
+        margin-bottom: 16px;
+        opacity: 0.8;
+    }
+
+    .tag {
+        font-size: 12px;
+        padding: 5px 12px;
+    }
+}

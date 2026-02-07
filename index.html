@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mission Control</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Remix Icon -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="brand">
+                <i class="ri-command-line"></i>
+                <span>戰情指揮中心 (Mission Control)</span>
+            </div>
+            <div class="user-menu">
+                <span class="username">蔡教練 (Coach)</span>
+                <i class="ri-refresh-line"></i>
+            </div>
+        </header>
+
+        <!-- Stats Bar -->
+        <div class="stats-bar">
+            <div class="stat-group">
+                <div class="stat-item highlight">
+                    <span class="value">0</span>
+                    <span class="label">本週活躍</span>
+                </div>
+                <div class="stat-item">
+                    <span class="value">0</span>
+                    <span class="label">知識輸入</span>
+                </div>
+                <div class="stat-item">
+                    <span class="value">0</span>
+                    <span class="label">內容產出</span>
+                </div>
+            </div>
+            <div class="completion-rate">
+                <span class="rate-value">0%</span>
+                <span class="rate-label">系統健康度</span>
+            </div>
+        </div>
+
+        <!-- Action Toolbar -->
+        <div class="toolbar">
+            <button class="btn-primary">
+                <i class="ri-add-line"></i> 新增指令
+            </button>
+            <div class="filters">
+                <!-- Injected by JS -->
+            </div>
+        </div>
+
+        <!-- Kanban Board -->
+        <div class="kanban-board">
+            <!-- Column 1: Librarian -->
+            <div class="kanban-column">
+                <div class="column-header">
+                    <span class="dot blue"></span>
+                    <span class="title">知識收件匣</span>
+                    <span class="count">0</span>
+                    <button class="add-btn"><i class="ri-add-line"></i></button>
+                </div>
+                <div class="column-body empty-state"></div>
+            </div>
+
+            <!-- Column 2: Producer -->
+            <div class="kanban-column">
+                <div class="column-header">
+                    <span class="dot purple"></span>
+                    <span class="title">內容工廠</span>
+                    <span class="count">0</span>
+                    <button class="add-btn"><i class="ri-add-line"></i></button>
+                </div>
+                <div class="column-body empty-state"></div>
+            </div>
+
+            <!-- Column 3: CTO -->
+            <div class="kanban-column">
+                <div class="column-header">
+                    <span class="dot red"></span>
+                    <span class="title">技術維運</span>
+                    <span class="count">0</span>
+                    <button class="add-btn"><i class="ri-add-line"></i></button>
+                </div>
+                <div class="column-body empty-state"></div>
+            </div>
+
+            <!-- Column 4: Coach -->
+            <div class="kanban-column">
+                <div class="column-header">
+                    <span class="dot orange"></span>
+                    <span class="title">客戶成功</span>
+                    <span class="count">0</span>
+                    <button class="add-btn"><i class="ri-add-line"></i></button>
+                </div>
+                <div class="column-body empty-state"></div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
