@@ -34,6 +34,19 @@ body {
     display: flex;
     flex-direction: column;
     height: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+#soul-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 0;
+    pointer-events: none;
+    opacity: 0.6;
 }
 
 /* Header */
@@ -107,6 +120,25 @@ body {
     font-size: 24px;
     font-weight: 700;
     text-shadow: 0 0 10px var(--accent-glow);
+}
+
+/* RPG Stats Styling */
+.stat-item.rpg-stat .value {
+    font-family: 'Courier New', monospace;
+    /* Tech/Code feel */
+    color: #00ffff;
+    /* Cyan for Slime */
+    text-shadow: 0 0 5px rgba(0, 255, 255, 0.5);
+}
+
+#slime-level {
+    font-size: 1.4rem;
+    font-weight: 800;
+}
+
+#slime-exp {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
 }
 
 /* Toolbar */

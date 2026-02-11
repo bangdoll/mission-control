@@ -12,6 +12,7 @@
 </head>
 
 <body>
+    <div id="soul-container"></div>
     <div class="app-container">
         <!-- Header -->
         <header class="header">
@@ -31,6 +32,15 @@
                 <div class="stat-item highlight">
                     <span class="value">0</span>
                     <span class="label">本週活躍</span>
+                </div>
+                <!-- RPG Stats -->
+                <div class="stat-item rpg-stat">
+                    <span class="value" id="slime-level">Lv.1</span>
+                    <span class="label">進化等級</span>
+                </div>
+                <div class="stat-item rpg-stat">
+                    <span class="value" id="slime-exp">0/100</span>
+                    <span class="label">經驗值</span>
                 </div>
                 <div class="stat-item">
                     <span class="value">0</span>
@@ -104,6 +114,8 @@
             </div>
         </div>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.min.js"></script>
+    <script src="soul.js"></script>
     <script src="script.js"></script>
 </body>
 
