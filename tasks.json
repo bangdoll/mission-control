@@ -1,7 +1,7 @@
 [
     {
         "id": "standup-2026-05-23",
-        "title": "📅 OpenClaw 晨間工作日報 (2026-05-23)",
+        "title": "📅 Antigravity 晨間工作日報 (2026-05-23)",
         "description": "昨日發布成果：\n- 文章: 365攝影挑戰 20260522(五)141/365 Day3795\n- 文章: Vibe Coding：非工程專長者的 AI 實戰心法\n- 影片: AI 時代新趨勢：模型轉變生產力槓桿！\n\n伺服器資源狀況: 硬碟 367.9 GB 可用\n\n待處理任務數: 7",
         "tags": [
             "Standup",
@@ -9,7 +9,7 @@
         ],
         "status": "success",
         "user": "CTO",
-        "timestamp": "自動彙整於 01:13"
+        "timestamp": "自動彙整於 01:16"
     },
     {
         "id": "standup-2026-05-22",
