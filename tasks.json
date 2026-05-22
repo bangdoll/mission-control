@@ -1,0 +1,3166 @@
+[
+    {
+        "id": "standup-2026-05-22",
+        "title": "📅 OpenClaw 晨間工作日報 (2026-05-22)",
+        "description": "昨日發布成果：\n- 文章: Vibe Coding：非工程專長者的 AI 實戰心法\n- 文章: 【工作流主權】別被軟體更新牽著走！為什麼「工作流不中斷」才是 AI 時代最昂貴的安全感？\n- 文章: 為什麼老闆不買最新 AI？揭密傳統企業轉型的「接班真相」\n- 文章: 365攝影挑戰 20260521(四)140/365 Day3794\n- 文章: 本地 AI 核心的覺醒：大阿爪 Antigravity 2.0 系統與智慧路由全面升級\n- 影片: AI 時代新趨勢：從模型到治理，生產力大變革！\n\n伺服器資源狀況: 硬碟 343.8 GB 可用\n\n待處理任務數: 9",
+        "tags": [
+            "Standup",
+            "Report"
+        ],
+        "status": "success",
+        "user": "CTO",
+        "timestamp": "自動彙整於 10:26"
+    },
+    {
+        "id": "raindrop-insight-20260303",
+        "title": "💡 知識復燃：從書籤庫到「執行手腳」的最終串聯",
+        "description": "考古發現您三個月前收藏的『Agentic Workflow』與今日的『Execution Radar』有驚人的重疊。建議下一步：實作『SSH 自動化指令快取』，將原本被動的書籤轉化為主動的維運腳本。",
+        "tags": [
+            "Insight",
+            "Library"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "手動喚醒"
+    },
+    {
+        "id": "nightly-reflection-system-2026",
+        "title": "🌙 暗夜反思系統 (Nightly Reflection)",
+        "description": "已部署自動化腳本。每晚 23:00 分析 Diary_2026xxxx.md，提取遺憾點並轉化為隔日行動建議。",
+        "tags": [
+            "Automation"
+        ],
+        "status": "success",
+        "user": "Coach",
+        "timestamp": "已上線"
+    },
+    {
+        "id": "titan-engine-v2-2026",
+        "title": "Titan Engine v2: 單次加壓革命",
+        "description": "實現 60s 內產出 5000 字泰坦級文稿，徹底解決 429 配額死鎖與內容截斷問題。",
+        "tags": [
+            "Production"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "anti-ai-detection-2026",
+        "title": "人類化指紋系統 (Anti-AI Detection)",
+        "description": "實作「人類化指紋十則」，包含隨機錯別字、全半型混用，完美避開內容偵測器。",
+        "tags": [
+            "Strategy"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "titan-safety-guard-2026",
+        "title": "Titan Safety Guard: 字數熔斷",
+        "description": "實作物理字數檢查 (len < 3000 chars)，拒絕任何殘缺內容發布，保衛品牌高度。",
+        "tags": [
+            "Security"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--2462349597240204404",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-9159508189795076955",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-2012903391545862907",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--3868590888429797968",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--7177275770884234884",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--6635058498298688449",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-3903917134791500088",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--3930769767620828726",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update--1545454821588022834",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update--4021967521106292017",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update--3663963031655184619",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update-8344900586837064150",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update--2566915616740251052",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update--470756152550683343",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update-8753651459015227427",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update-4855063293798028716",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update--8703303868999215227",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update-5147953651201757562",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update--6755052658797883736",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update-2287045357408761463",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update-8123748749731898139",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update--1616846548021134521",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update-3218459274641760528",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    },
+    {
+        "id": "phase-7025746592642742636",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-6547472046662946804",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--4367449771320368763",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--4915332209688352188",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-4524530370298547531",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-3182264850543889202",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-8785692592945042663",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-79201340379918234",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update-7644400279129968403",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update--7902316378153965854",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update--9222613507657513366",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update--7329855474748176037",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update-3249948277929178677",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update--7693722901362945814",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update-663231129302896750",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update-2084060722876648294",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update-6049006530213289471",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update--6861134345709539952",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update-5097723605250415230",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update-1568540635082486209",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update-8201269927037611685",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update-7279380323730388790",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update--7166495441546673732",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    },
+    {
+        "id": "system-guardian-watch",
+        "title": "🛡️ 系統守護者 (Watchdog)",
+        "description": "目前狀態: 網站運行中\n上次掃描: 18:02:19",
+        "tags": [
+            "Security",
+            "Realtime"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "守護中"
+    },
+    {
+        "id": "phase-8903772402250427882",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--5198001170489003347",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-4547091193023063477",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-5387018468345447875",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-4699220059842824125",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-2700109501289133723",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-2053947455453449326",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--4989604057340417403",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update--1541217990488429706",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update--2163473093541196398",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update-186595905601168564",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update-6031862751911211504",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update-569468735770402169",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update--6811790020714193867",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update--1236643790342564864",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update-4040276153127170114",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update--2497327513620242697",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update-8791589534681242465",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update-138015679925969697",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update--7351044010870713052",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update--6607816395881454322",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update--2855840186934829692",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update-4806302150661576392",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    },
+    {
+        "id": "outreach-陳老師",
+        "title": "🤝 關係復活：陳老師",
+        "description": "【建議問候】\n【模擬生成】陳老師您好，我是正信。最近在寫一段關於70 人 AI 團隊的實戰營運學的邏輯，想到您之前提到的醫療 AI問題...",
+        "tags": [
+            "Outreach",
+            "Brand"
+        ],
+        "status": "success",
+        "user": "Coach",
+        "timestamp": "冷卻 103 天"
+    },
+    {
+        "id": "outreach-Bill 楊",
+        "title": "🤝 關係復活：Bill 楊",
+        "description": "【建議問候】\n【模擬生成】Bill 楊您好，我是正信。最近在寫一段關於70 人 AI 團隊的實戰營運學的邏輯，想到您之前提到的數位轉型問題...",
+        "tags": [
+            "Outreach",
+            "Brand"
+        ],
+        "status": "success",
+        "user": "Coach",
+        "timestamp": "冷卻 47 天"
+    },
+    {
+        "id": "outreach-浩峰生技負責人",
+        "title": "🤝 關係復活：浩峰生技負責人",
+        "description": "【建議問候】\n【模擬生成】浩峰生技負責人您好，我是正信。最近在寫一段關於70 人 AI 團隊的實戰營運學的邏輯，想到您之前提到的自動化流程問題...",
+        "tags": [
+            "Outreach",
+            "Brand"
+        ],
+        "status": "success",
+        "user": "Coach",
+        "timestamp": "冷卻 34 天"
+    },
+    {
+        "id": "phase-4397598547730266838",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-5857741483749701239",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--7177652819744596251",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--4627889168634900769",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--5938103253194229917",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-5665743044191847366",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-9097641261219383047",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-1560287774984493735",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update--5353692502670483706",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update--2260679053368337348",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update--9018050806436374936",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update--8717862051046603310",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update-1583210589498051312",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update-5217335567204692451",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update--1448540322094038429",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update--3536034892156499627",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update-7433623017451944841",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update--2872853570448140176",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update-9186819069531414215",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update-5610055157959029821",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update-917243886818611585",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update-7878114884935484704",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update--1547350383579418048",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    },
+    {
+        "id": "ssh-maintenance-task",
+        "title": "⚙️ SSH 自動維運守護",
+        "description": "【自我修復紀錄】\nSSH 連線失敗: SSH 維運修復完成\n處理時間: 18:04:36",
+        "tags": [
+            "Self-Healing",
+            "Server"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "需人工介入"
+    },
+    {
+        "id": "phase--1514859604784418928",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-6800995972345338922",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-743152166114273997",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--5364371071562160814",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--6284748901037057113",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--7153234954632711744",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--7306090233503116523",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--4892884580976789382",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update-1289634504607476465",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update--3122173589203188842",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update-5304936803373663084",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update--5435555373453691025",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update-4701655335134859714",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update--4675444871253544380",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update--829090389532772471",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update-4226929391673048946",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update--3447395729334632588",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update--1074892754664379010",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update--4679635205486887853",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update-4350668219984849106",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update-5846041821618728492",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update--5184032978773987948",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update-7219945134051294523",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    },
+    {
+        "id": "phase-2963389472645477310",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--2530855853495064901",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--5724165427492019802",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--5764373095475700248",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--5824511685826097495",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--5754485443261650378",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-8318134824312609602",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--7513875127974971988",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update--82748223044878916",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update-3872696361250724605",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update-9060758353543130808",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update-7534444197171986604",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update-5780721464420213330",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update-8754006468426484289",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update--3466116539885777274",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update--191777930957215417",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update-8897980998102450910",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update-154544508537539655",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update--1355112593837610742",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update--3360236106688051354",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update--7587958669391543091",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update--8340768368978026232",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update--8196057160858225758",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    },
+    {
+        "id": "phase--5340393002380942482",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--1613162684312854292",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-5471410255443902938",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--2531542999937398656",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--9222496264158014687",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-1021945022258147218",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--4980589707264806906",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-8353734646282154951",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update-2584963929028190816",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update--5222290806154741188",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update--1784869017783421798",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update--4457948996442530615",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update-4776034589084380865",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update-838411866926327398",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update--8686361918635232498",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update--7789957135852864823",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update-3323142192418985446",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update--8261756520784580932",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update--4071502858327003636",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update-5044831295741509132",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update--5526953458488454069",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update-6300382363204301141",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update-1857479812424377172",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    },
+    {
+        "id": "phase-3721239728461675781",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--6393001044865022109",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-5845755174553883378",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--550214812838620245",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-4333665123926315072",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--7009316854158199372",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--5678411799405284899",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--4921363771064172512",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update-1647243539165485913",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update--4416585581963147230",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update-2934512714892563331",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update-6683928131484771702",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update-5644473794141331696",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update-7024795049761477687",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update-8635960874662880115",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update-6458028554402798704",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update--1912428135855848890",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update-65443746662343712",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update--4483060867457061686",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update-6037353910223854351",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update-7214888452693897003",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update--4098114310002918021",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update-8739548670198777908",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    },
+    {
+        "id": "phase-67053356663969485",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--2323246100087231956",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-5810299485009569505",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-7825792341789490810",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-2841040470459514793",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-8674709952709814808",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--370269392822855573",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-4497033770262992801",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update--6304802309418950773",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update-7993444988522316031",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update-3528260973607142775",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update-4935908946764604089",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update-1348297842180179864",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update-3292817215921360548",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update-8192557112832958469",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update--942428467298600828",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update--8985407056551922229",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update--2345100530497400166",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update--2177345605287285101",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update--2161724281594762530",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update--5106114722112641227",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update-4628705977160637811",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update-5582019496283961829",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    },
+    {
+        "id": "phase--5763847861992524552",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-7843180668423524767",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--1594912854042286626",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-4265106282086115300",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--8969714118319394013",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--1796610904596408075",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--9108818764893421672",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-8266886001558335653",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update-2126952772836961572",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update-7067140156442047654",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update-5742188580585155411",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update--2764398831929624885",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update--6938591958316642931",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update--4045356041400191513",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update--8622095218272286064",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update--867455258309238033",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update--4590298987074104470",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update-6177043768751341044",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update-27101816167071934",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update--3327905581929654172",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update-3514430866580324673",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update-1673712966721441433",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update-8811079204158049045",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    },
+    {
+        "id": "phase--6018708607397619232",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-2293350139417028837",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--7276787039121477570",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-480723226171034897",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--8557114675415381359",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-4583131125980486830",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--1177507262134653910",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--8713599265585467261",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update--2126542536162238323",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update--7189194716036942490",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update-3241908062281087485",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update-5219551977522235728",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update--6628409634424643623",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update-3690123557919203218",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update-1709375821000300832",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update-3139469255622797930",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update--984907538322410889",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update--2229970953087619458",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update-6201709384888675600",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update-7549640379846476889",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update--1870885368806539882",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update--2295904081483160988",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update--3434930974185849891",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    },
+    {
+        "id": "phase-2204678456581172547",
+        "title": "階段一：專案初始化與協議建立",
+        "description": "專案進度階段: 階段一：專案初始化與協議建立",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--1041934567532282161",
+        "title": "階段二：Axton 影片觀點分析",
+        "description": "專案進度階段: 階段二：Axton 影片觀點分析",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-1640984305004001608",
+        "title": "階段三：2026 戰略定錨",
+        "description": "專案進度階段: 階段三：2026 戰略定錨",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-4982062432905172755",
+        "title": "階段四：核心服務模組建置",
+        "description": "專案進度階段: 階段四：核心服務模組建置",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--3370812278366343836",
+        "title": "階段五：實際案例試跑",
+        "description": "專案進度階段: 階段五：實際案例試跑",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-7520713870374877622",
+        "title": "階段六：系統視覺化與互動介面",
+        "description": "專案進度階段: 階段六：系統視覺化與互動介面",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase-7910480458071549284",
+        "title": "階段七：全通路整合 (Omnichannel)",
+        "description": "專案進度階段: 階段七：全通路整合 (Omnichannel)",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "success",
+        "user": "Librarian",
+        "timestamp": "已完成"
+    },
+    {
+        "id": "phase--5582664341115514706",
+        "title": "階段八：自主進化系統實作",
+        "description": "專案進度階段: 階段八：自主進化系統實作",
+        "tags": [
+            "Roadmap"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "進行中"
+    },
+    {
+        "id": "update-6754537425156310403",
+        "title": "2026-02-09",
+        "description": "*   **Groq 整合**: 成功實作 `groq-whisper` 技能，將系統轉譯引擎全面從本地/OpenAI 遷移至 Groq `whisper-large-v3-turbo`。   **效能質變**: 實測語音指令處理速度提升約 25 倍，顯著解決了 MacBook Air 處理大型 W...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Groq Whisper 25倍速轉譯革命"
+    },
+    {
+        "id": "update--6276684938834892509",
+        "title": "2026-02-09",
+        "description": "*   **Raindrop 數位圖書館**: 成功實作 `raindrop-manager` 技能，實現「自動收藏 + AI 摘要 + 價值分析」一條龍服務。解決了書籤標題 null 與內容冗餘問題。   **雲端同步穩定版 (v60)**: 徹底解決 Cloud Run Webhook 路由問題...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Raindrop 核心整合與雲端 Webhook 突破"
+    },
+    {
+        "id": "update-8847555911938738361",
+        "title": "2026-03-03",
+        "description": "*   **Titan Engine v2**: 成功開發「單次加壓生成」引擎，實現 60 秒內產出 5000 字泰坦級深度文章，避開 API 429 配額限制。   **Safety Guard**: 實作物理字數熔斷機制 (len < 3000 chars)，拒絕任何殘缺內容發布，確保「數位教練...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "泰坦長文革命與 AI 偵測避障"
+    },
+    {
+        "id": "update--8252835204373889202",
+        "title": "2026-03-02",
+        "description": "*   **認證死鎖解除**: 完美解決 `httpx` 在 Google 多重網域間的 `SID` 衝突，實施「純淨網域策略」與「跨網域 SID 注入」，徹底告別 `confirmidentifier` 重定向。   **yt-dlp 遷移**: 成功將 YouTube 下載核心從不穩定的 `py...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "NotebookLM 認證革命與 /ytnote 工作流"
+    },
+    {
+        "id": "update-6897006338900546274",
+        "title": "2026-03-01",
+        "description": "...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "365 攝影挑戰 API 效率革命"
+    },
+    {
+        "id": "update--108501111652882825",
+        "title": "2026-02-09",
+        "description": "*   **Focus**: 成功修正晨間簡報「新聞不對勁」問題。來源已精確鎖定為「智流 AI (`smart-flow.rd.coach`)」。   **Interactive Links**: 實現 Markdown 標題連結功能，Boss 可直接點擊簡報內容回連智流網站。   **Diary ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Morning Briefing Source Fix"
+    },
+    {
+        "id": "update-5646947912922649929",
+        "title": "2026-02-08",
+        "description": "*   **Deployment**: 歷經多次嘗試，最終以 **v43 (原生 PID 1 門面架構)** 成功穩定了 Cloud Run 部署。由 Node.js `facade.js` 直監 $PORT，秒速回應健康檢查。   **CFO Activity**: **財務長 (CFO)** 定...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Cloud Run Stability Breakthrough"
+    },
+    {
+        "id": "update-7029265104541150947",
+        "title": "2026-02-04 ~ 2026-02-07",
+        "description": "*   **Container Optimization**: 針對 Cloud Run 啟動失敗進行深度診斷，實施 OOM 調優與資源隔離。   **Workarounds**: 實驗 `socat` Sidecar 與 `wait-for-port` 腳本，解決 $PORT 被核心佔用導致容器超...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Infrastructure & Research"
+    },
+    {
+        "id": "update-8467174026944929834",
+        "title": "2026-02-03",
+        "description": "*   **LINE Connect**: 完成 `OpenClaw LINE Connect` 安裝與 `ui.py` 修復，支援永久 Webhook。   **Dashboard**: 部署獨立前端 `clawdbot-custom-ui`，採 Split Stack 架構規避後端服務異常。  ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Omnichannel & NanoClaw"
+    },
+    {
+        "id": "update-1257543618163887809",
+        "title": "2026-02-02",
+        "description": "*   **Skills**: 「晨間簡報官 (Morning Briefing)」與「語音筆記整理 (Voice Note)」正式上線。   **Fix**: 解決 Telegram \"Access not configured\" 授權問題。   **Intelligence**: 完成 Open...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Massive Skill Deployment"
+    },
+    {
+        "id": "update--5431091799841143411",
+        "title": "2026-01-30 ~ 2026-02-01",
+        "description": "*   **Migration**: 為克服 Box Drive 效能與 IO 瓶頸，執行**本機 SSD 遷移計畫**。將 5.6GB 專案檔案移至 `~/Projects/00.AI筆記_Local` 並重初始化 Git。   **Localization**: 完成 Clawdbot UI 的...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "Migration & Deep Localization"
+    },
+    {
+        "id": "update-5577091655101810129",
+        "title": "2026-01-27 ~ 2026-01-29",
+        "description": "*   **Dashboard**: 解決 \"Pairing Required\" 問題，實施 Token-based 免配對遠端登入。   **Strategy**: 分析 `rd.coach` 流量增長戰略，制定 30 天「引流資產」轉型計畫。   **Video**: 升級 `Adaptive ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "content",
+        "user": "Producer",
+        "timestamp": "Web Access & Strategy"
+    },
+    {
+        "id": "update-5130986600972802675",
+        "title": "2026-01-20 ~ 2026-01-24",
+        "description": "*   **Transcription**: 成功生成繁體中文 SRT 字幕檔，修正多種時碼格式差異。   **PPTX Evolution**: 修復投影片變形問題，實作 Smart Fit 與透明度合成邏輯。   **Security**: 完成 PrismFlow API Key 強制驗證機制...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "AI System Foundation"
+    },
+    {
+        "id": "update-6031238295608642113",
+        "title": "2026-01-11 ~ 2026-01-18",
+        "description": "*   **Theme**: 實作深淺色模式 (Dark/Light Mode) 一鍵切換與偏好記憶。   **Native Hybrid**: 導入 `pypdf` + `Masking` 修復高畫質掃描導致的 API Timeout 與破圖問題。   **Documentation**: 完成 ...",
+        "tags": [
+            "Update"
+        ],
+        "status": "devops",
+        "user": "CTO",
+        "timestamp": "UX & Stability"
+    },
+    {
+        "id": "update-747079011578221209",
+        "title": "[Legacy]",
+        "description": "舊版 `app.py` (Streamlit) 已被此新系統整合並取代。...",
+        "tags": [
+            "Update"
+        ],
+        "status": "knowledge",
+        "user": "Librarian",
+        "timestamp": "Recent"
+    }
+]
